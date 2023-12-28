@@ -1,1 +1,3 @@
-# test Calculator-mobile in react-ntive
+# test Calculator-mobile 
+
+in react-native
